@@ -22,8 +22,6 @@
 [<img align="left" alt="SQL" width="26px" src="https://icons-for-free.com/download-icon-file+sql+icon-1320183612970878250_512.png" />]
 [<img align="left" alt="C" width="26px" src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" />]
 
-<br />
-<br />
-
 [instagram]: https://www.instagram.com/adrian._oles/?hl=en
 [twitter]: https://twitter.com/AdrianOlesniew2
+[AdrianOles]: https://github.com/AdrianOles
