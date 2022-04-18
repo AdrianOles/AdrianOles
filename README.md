@@ -7,11 +7,13 @@
 - 🎯 2022 Goals: Improve GitHub Profile and produce more Projects
 - ⚡Fun Fact: I love to play soccer, swim, and mountain bike
 
+---
+
 ### Connect with me:
 [<img align="left" target=”_blank” alt="AdrianOles" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" />][instagram]
 [<img align="left" target=”_blank” alt="AdrianOles" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />][twitter]
 
-<br />
+---
 
 ### Languages and Tools:
 
@@ -24,7 +26,9 @@
 
 ---
 
-[<img align="left" target=”_blank” alt="AdrianOles's GitHub Stats" width="30px" src="https://github-readme-stats.vercel.app/api?username=AdrianOles&show_icons=true&hide_border=true" />]
+[<img align="left" target=”_blank” alt="AdrianOles's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AdrianOles&show_icons=true&hide_border=true" />]
+
+[<img align="left" target=”_blank” alt="AdrianOles's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianOles&layout=compact" />]
 
 [instagram]: https://www.instagram.com/adrian._oles/?hl=en
 [twitter]: https://twitter.com/AdrianOlesniew2
