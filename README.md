@@ -24,12 +24,13 @@
 <img align="left" target=”_blank” alt="Python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" target=”_blank” alt="SQL" width="30px" src="https://icons-for-free.com/download-icon-file+sql+icon-1320183612970878250_512.png" />
 <img align="left" target=”_blank” alt="C" width="30px" src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" />
+<br/>
 
 ---
 
-[<img align="left" target=”_blank” alt="AdrianOles's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AdrianOles&show_icons=true&hide_border=true" />]
+<img align="left" target=”_blank” alt="AdrianOles's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AdrianOles&show_icons=true&hide_border=true" />
 
-[<img align="left" target=”_blank” alt="AdrianOles's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianOles&layout=compact" />]
+<img align="left" target=”_blank” alt="AdrianOles's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianOles&layout=compact" />
 
 [instagram]: https://www.instagram.com/adrian._oles/?hl=en
 [twitter]: https://twitter.com/AdrianOlesniew2
