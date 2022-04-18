@@ -24,9 +24,7 @@
 
 ---
 
-[<img align="left" target=”_blank” alt="AdrianOles's GitHub Stats" width="30px" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianOles)](https://github.com/anuraghazra/github-readme-stats)
-)
-" />]
+[<img align="left" target=”_blank” alt="AdrianOles's GitHub Stats" width="30px" src="https://github-readme-stats.vercel.app/api?username=AdrianOles&show_icons=true&hide_border=true" />]
 
 [instagram]: https://www.instagram.com/adrian._oles/?hl=en
 [twitter]: https://twitter.com/AdrianOlesniew2
