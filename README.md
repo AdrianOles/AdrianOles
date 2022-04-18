@@ -6,6 +6,7 @@
 - 🧑‍🤝‍🧑 I'm looking to collaborate with other developers!
 - 🎯 2022 Goals: Improve GitHub Profile and produce more Projects
 - ⚡Fun Fact: I love to play soccer, swim, and mountain bike
+- Cool, right!
 
 ### Connect with me:
 [<img align="left" alt="AdrianOles" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" />][instagram]
