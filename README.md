@@ -1,4 +1,4 @@
-#### Hi there, I'm Adrian - aka [AdrianOles] 👋
+# Hi there, I'm Adrian - aka [AdrianOles] 👋
 
 ### I'm a High School Student and Aspiring Software Engineer
 - 💪 I'm currently working on a School Cafeteria Menu
