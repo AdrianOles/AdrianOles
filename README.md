@@ -1,6 +1,6 @@
-### Hi there, I'm Adrian - aka [AdrianOles] 👋
+#### Hi there, I'm Adrian - aka [AdrianOles] 👋
 
-## I'm a High School Student and Aspiring Software Engineer
+### I'm a High School Student and Aspiring Software Engineer
 - 💪 I'm currently working on a School Cafeteria Menu
 - 🌱 I'm currently learning everything tech-related 😅
 - 🧑‍🤝‍🧑 I'm looking to collaborate with other developers!
@@ -10,8 +10,8 @@
 ---
 
 ### Connect with me:
-[<img align="left" target=”_blank” alt="AdrianOles" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" />][instagram]
-[<img align="left" target=”_blank” alt="AdrianOles" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />][twitter]
+[<img align="left" target=”_blank” alt="AdrianOles" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" />][instagram]
+[<img align="left" target=”_blank” alt="AdrianOles" width="50px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />][twitter]
 <br/>
 
 ---
