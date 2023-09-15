@@ -1,7 +1,7 @@
 # Hey there, I am Adrian Olesniewicz
 
 ## 💫 About Me:
-🔭 I’m currently working on a platform for schools.<br>🌱 I’m currently learning AI, AWS, Flutter<br>👯 I’m looking to collaborate in Hackathons<br>🤝 I’m looking for help with learning artificial intelligence<br>💬 Ask me about Next.js, CS50, Firebase, CMS<br>📫 How to reach me olesnieadrian@gmail.com<br>⚡ Fun fact I love to swim, mountain bike, and play football.
+🔭 I’m currently working on a platform for schools.<br>🌱 I’m currently learning AI, AWS, Flutter<br>👯 I’m looking to collaborate in Hackathons<br>🤝 I’m looking for help with learning artificial intelligence<br>💬 Ask me about Next.js, CS50, Firebase, CMS<br>📫 How to reach me olesnieadrian@gmail.com<br>⚡ Fun fact I love to swim, mountain bike, and play soccer.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adrian.oles_) 
